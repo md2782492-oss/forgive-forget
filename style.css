@@ -1,0 +1,16 @@
+body {
+  font-family: system-ui, sans-serif;
+  background: #fafafa;
+  color: #111;
+  max-width: 640px;
+  margin: 40px auto;
+}
+
+li {
+  cursor: pointer;
+  margin: 6px 0;
+}
+
+small {
+  opacity: 0.6;
+}
